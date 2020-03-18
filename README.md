@@ -13,5 +13,5 @@ The output is a Pandas DataFrame, with 5 columns:
   City (the name of the city)
 
 References:
-# https://github.com/juhilsomaiya/API-Integrations-Python/tree/master/Weather_forecast
-# https://pypi.org/project/yahoo-weather/
+https://github.com/juhilsomaiya/API-Integrations-Python/tree/master/Weather_forecast
+https://pypi.org/project/yahoo-weather/
